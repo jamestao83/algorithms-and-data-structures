@@ -4,7 +4,7 @@ import cc.techtips.utils.ArrayGenerator;
 import cc.techtips.utils.SortingTester;
 
 /**
- * @author tao
+ * @author James
  */
 public class SelectionSortTest {
 

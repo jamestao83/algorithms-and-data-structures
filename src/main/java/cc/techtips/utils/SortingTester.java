@@ -6,7 +6,7 @@ import java.lang.reflect.Method;
 /**
  * 排序测试
  *
- * @author tao
+ * @author James
  */
 public class SortingTester {
 

@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * 数组生成器
  *
- * @author tao
+ * @author James
  */
 public class ArrayGenerator {
 

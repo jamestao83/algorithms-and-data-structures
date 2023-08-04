@@ -3,7 +3,7 @@ package cc.techtips.algorithms.sort.selectionsort;
 /**
  * 选择排序
  *
- * @author tao
+ * @author James
  */
 public class SelectionSort {
 
